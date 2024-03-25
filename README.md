@@ -1,5 +1,5 @@
 
-# Build a PLatformer Game
+# Build a Platformer Game
 
 A webapp that uses OOP to create a very simple platformer game with three checkpoints.
 
